@@ -1,8 +1,9 @@
 # pizzaassignment
-Pizza Builder App
-This is a simple web application that allows the user to create custom pizzas by selecting a pizza base and adding toppings. The user can drag and drop the pizza base and toppings onto a pizza image, and the image will update dynamically to show the ingredients that have been added.
+<h>Pizza Builder App</h>
+<br>
+<p>This is a simple web application that allows the user to create custom pizzas by selecting a pizza base and adding toppings. The user can drag and drop the pizza base and toppings onto a pizza image, and the image will update dynamically to show the ingredients that have been added.<p>
 
-Getting Started
+<h>Getting Started</h>
 To use this application, simply open the index.html file in a web browser.
 
 Usage
